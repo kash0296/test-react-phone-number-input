@@ -8,7 +8,7 @@ import PhoneInput from 'react-phone-number-input';
         <PhoneInput
           international
           countryCallingCodeEditable={false}
-          defaultCountry="US"
+          defaultCountry="RU"
           value={value}
           onChange={setValue}
         />
